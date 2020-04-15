@@ -1,1 +1,1 @@
-# Example of how a TPM PCR extend works
+# Example of how a TPM PCR replay works
